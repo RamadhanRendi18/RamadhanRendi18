@@ -1,4 +1,4 @@
-<img height="200" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+<img height="200" width="400" src="https://github.com/RamadhanRendi18/RamadhanRendi18/blob/main/hacker%20hacking%20GIF.gif"  />
 
 # 💫 About Me:
 🛠 I’m currently working on a Django To-Do List<br>🌱 I’m currently learning Django and Golang<br>💬 Ask me about Anime<br>⚡ Fun fact: I LIKE ANIME<br>🚀 A project I want to start: E-Learning with Django<br>🎨 My hobbies and interests: Playing games and watching anime<br>🎯 My current goal: Learning Django
