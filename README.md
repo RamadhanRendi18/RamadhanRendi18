@@ -1,7 +1,6 @@
-![Anime GIF](https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif)
-
 
 # 💫 About Me:
+![Anime GIF](https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif)
 🛠 I’m currently working on a Django To-Do List<br>🌱 I’m currently learning Django and Golang<br>💬 Ask me about Anime<br>⚡ Fun fact: I LIKE ANIME<br>🚀 A project I want to start: E-Learning with Django<br>🎨 My hobbies and interests: Playing games and watching anime<br>🎯 My current goal: Learning Django
 
 
